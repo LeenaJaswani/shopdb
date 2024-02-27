@@ -1,0 +1,15 @@
+{
+  "name": "shop-mock-api",
+  "version": "1.0.0",
+  "description": "* Create a folder\r ```\r mkdir <projectname>-mock-api\r cd <projectname>-mock-api\r ```",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
